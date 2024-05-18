@@ -1,6 +1,6 @@
 
 ## Hey! 👋 I'm Koustav Banerjee, a passionate Data Scientist.
-<img align="right" height="300" width="400" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/d2a481db-8292-4688-93ee-ede8aae06861.gif" alt="GIF"/>
+<img align="right" height="250" width="350" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/d2a481db-8292-4688-93ee-ede8aae06861.gif" alt="GIF"/>
 
 - 👨‍💻 Working on various **Data Science & Analysis projects**
 
