@@ -1,4 +1,5 @@
-
+![1_YCrp0Z8mAOe2IUV9XmlEDw](https://github.com/KoKoustav/KoKoustav/assets/146055901/85ea1e61-9584-4261-9b7d-22fdb06ad7a2)
+  
 ## Hey! 👋 I'm Koustav Banerjee, a passionate Data Scientist.
 <img align="right" height="270" width="360" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/d2a481db-8292-4688-93ee-ede8aae06861.gif" alt="GIF"/>
 
@@ -17,7 +18,6 @@
 - 📄 Know about my experiences [Koustav Banerjee Resume](https://tinyurl.com/Koustav-Banerjee-Resume)
 
 - 🧠 Kaggle Profile [Kaggle](https://www.kaggle.com/rickko)
-
 - 👀 Leetcode Profile [LeetCode](https://leetcode.com/u/koustavb12/)
 
 - ⚡ Fun fact **I love to listen to Bengali stories.**
