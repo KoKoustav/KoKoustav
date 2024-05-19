@@ -1,6 +1,6 @@
 
 ## Hey! 👋 I'm Koustav Banerjee, a passionate Data Scientist.
-<img align="right" height="250" width="350" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/d2a481db-8292-4688-93ee-ede8aae06861.gif" alt="GIF"/>
+<img align="right" height="270" width="370" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/d2a481db-8292-4688-93ee-ede8aae06861.gif" alt="GIF"/>
 
 - 👨‍💻 Working on various **Data Science & Analysis projects**
 
@@ -15,6 +15,8 @@
 - 📫 How to reach me **banerjeekoustav387@gmail.com**
 
 - 📄 Know about my experiences [Koustav Banerjee Resume](https://tinyurl.com/Koustav-Banerjee-Resume)
+
+- Leetcode Profile [LeetCode](https://leetcode.com/u/koustavb12/)
 
 - ⚡ Fun fact **I love to listen to Bengali stories.**
 
@@ -66,6 +68,5 @@
 - [LinkedIn](https://www.linkedin.com/in/coderkoustav)
 - [GitHub](https://github.com/KoKoustav)
 - Email: banerjeekoustav387@gmail.com
-- [LeetCode](https://leetcode.com/u/koustavb12/)
 
 Thank you for visiting my profile! Feel free to reach out to me for collaborations or just to say hi 😊.
