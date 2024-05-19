@@ -16,7 +16,9 @@
 
 - 📄 Know about my experiences [Koustav Banerjee Resume](https://tinyurl.com/Koustav-Banerjee-Resume)
 
-- Leetcode Profile [LeetCode](https://leetcode.com/u/koustavb12/)
+- 🧠 Kaggle Profile [Kaggle](https://www.kaggle.com/rickko)
+
+- 👀 Leetcode Profile [LeetCode](https://leetcode.com/u/koustavb12/)
 
 - ⚡ Fun fact **I love to listen to Bengali stories.**
 
