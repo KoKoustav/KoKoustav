@@ -1,4 +1,4 @@
-<p><img align="center" height="250" width="500" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/85ea1e61-9584-4261-9b7d-22fdb06ad7a2" alt="GIF"/><p/>
+<p><img align="center" height="250" width="600" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/ddd6fc10-62ea-4da5-b468-3fd377337e1d" alt="GIF"/><p/>
 
 ## Hey! 👋 I'm Koustav Banerjee, a passionate Data Scientist.
 <img align="right" height="270" width="360" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/d2a481db-8292-4688-93ee-ede8aae06861.gif" alt="GIF"/>
@@ -67,8 +67,10 @@
 </p>
 
 ## Contact
+<p><img align="right" height="210" width="350" src="https://github.com/KoKoustav/KoKoustav/assets/146055901/85ea1e61-9584-4261-9b7d-22fdb06ad7a2" alt="GIF"/><p/>
+  
 - [LinkedIn](https://www.linkedin.com/in/coderkoustav)
 - [GitHub](https://github.com/KoKoustav)
 - Email: banerjeekoustav387@gmail.com
 
-Thank you for visiting my profile! Feel free to reach out to me for collaborations or just to say hi 😊.
+Thank you for visiting my profile! Feel free to contact me for collaborations or just to say hi 😊.
