@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Deep Learning and others AI tools**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/KoKoustav)
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/coderkoustav/)
 
 - 💬 Ask me about **Data Science or Data Analysis**
 
