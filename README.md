@@ -71,6 +71,6 @@
   
 - [LinkedIn](https://www.linkedin.com/in/coderkoustav)
 - [GitHub](https://github.com/KoKoustav)
-- Email: banerjeekoustav387@gmail.com
+- Email: koustav.banerjee.work@gmail.com
 
 Thank you for visiting my profile! Feel free to contact me for collaborations or just to say hi 😊.
