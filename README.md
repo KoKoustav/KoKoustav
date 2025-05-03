@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Data Science or Data Analysis**
 
-- 📫 How to reach me **banerjeekoustav387@gmail.com**
+- 📫 How to reach me **koustav.banerjee.work@gmail.com**
 
-- 📄 Know about my experiences [Koustav Banerjee Resume](https://tinyurl.com/Koustav-Banerjee-Resume)
+- 📄 Know about my experiences [Koustav Banerjee Resume](https://tinyurl.com/mvfsek4s)
 
 <!---- 🧠 Kaggle Profile [Kaggle](https://www.kaggle.com/rickko)-->
 - 👀 Leetcode Profile [LeetCode](https://leetcode.com/u/koustavb12/)
