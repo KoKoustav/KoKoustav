@@ -20,7 +20,7 @@
 <!---- 🧠 Kaggle Profile [Kaggle](https://www.kaggle.com/rickko)-->
 - 👀 Leetcode Profile [LeetCode](https://leetcode.com/u/koustavb12/)
 
-- ⚡ Fun fact **I love to listen to Bengali audio stories.**
+- ⚡ Fun fact **I love to listen to audio stories.**
 
 ## Skills and Tools
 <h3 align="left">Languages and Tools:</h3>
