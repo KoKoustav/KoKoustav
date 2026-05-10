@@ -49,20 +49,11 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="PowerBI" width="60" height="60"/> 
   </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> 
-  </a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60"/> 
-  </a> 
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="60" height="60"/> 
   </a>
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="60" height="60"/> 
-  </a>
-  <a href="https://www.openai.com/research" target="_blank" rel="noreferrer"> 
-   <img src="https://simpleicons.org/icons/openai.svg" alt="GPT" width="60" height="60"/> 
   </a>
 </p>
 
