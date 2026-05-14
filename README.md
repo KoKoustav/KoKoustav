@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Deep Learning and others AI tools**
 
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/coderkoustav/)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/coderkoustav/)
 
 - 💬 Ask me about **Data Science or Data Analysis**
 
@@ -25,6 +25,9 @@
 ## Skills and Tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="SQL" width="60" height="60"/> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
   </a> 
@@ -43,15 +46,15 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/> 
   </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="60" height="60"/> 
+  </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
     <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="60" height="60"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="PowerBI" width="60" height="60"/> 
   </a> 
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="60" height="60"/> 
-  </a>
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="60" height="60"/> 
   </a>
