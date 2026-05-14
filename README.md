@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/KoKoustav/KoKoustav/assets/146055901/ddd6fc10-62ea-4da5-b468-3fd377337e1d" alt="Banner GIF" width="100%" />
+<img src="https://github.com/KoKoustav/KoKoustav/assets/146055901/ddd6fc10-62ea-4da5-b468-3fd377337e1d" alt="Banner GIF" width="80%" />
 
 # Hey there! 👋 I'm Koustav Banerjee
 
